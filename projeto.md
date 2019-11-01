@@ -28,5 +28,7 @@ Projeto
 	
 	Crie um readme explicando suas decisões e o que usou para criar o sistema.
 
+**Prazo: 2 semanas**
+
 Obrigado
 Qualquer dúvida estamos a sua disposição, valeu.
